@@ -6,6 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "n8n"
   },
+  "engines": {
+    "node": ">=20.19 <25"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
